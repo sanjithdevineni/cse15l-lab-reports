@@ -11,3 +11,7 @@ Lab Report 2 - Week 4:
 Lab Report 3 - Week 6:
 
 [LabReport3](lab-report-3-week-6.md)
+
+Lab Report 4 - Week 8:
+
+[LabReport4](lab-report-4-week-8.md)
