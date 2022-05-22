@@ -8,6 +8,8 @@ Link to other markdown-parse repository:
 
 [OtherMarkdownParse](https://github.com/lithicarus/markdown-parser)
 
+Tool used to determine expected output: [Commonmark demo site](https://spec.commonmark.org/dingus/)
+
 ## Snippet 1
 
 Code in `MarkdownParseTest.java` file:
