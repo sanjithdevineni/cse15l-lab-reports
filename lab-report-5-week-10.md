@@ -12,7 +12,13 @@ $ vimdiff results.txt resultsOther.txt
 
 481.md
 
+Test 1 Link: 
+
 [Test1Link](481.md)
+
+OR
+
+[Test1Link](https://github.com/sanjithdevineni/cse15l-lab-reports/blob/main/481.md)
 
 The correct implementation for the test is my implementation of `MarkdownParse.java`.
 
@@ -53,7 +59,13 @@ should be removed, and the correct result will be outputed.
 
 571.md
 
+Test 2 Link:
+
 [Test2Link](571.md)
+
+OR
+
+[Test2Link](https://github.com/sanjithdevineni/cse15l-lab-reports/blob/main/571.md)
 
 The correct implementation for the test is the other implementation of `MarkdownParse.java`.
 
